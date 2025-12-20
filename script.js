@@ -62,7 +62,7 @@ function loadPage(page) {
              </ul>
              `;
     }
-    if (page === "content") {
+    if (page === "contact") {
         changeBackground("contact-bg");
         content.innerHTML =`
         <h2>Contact</h2>
